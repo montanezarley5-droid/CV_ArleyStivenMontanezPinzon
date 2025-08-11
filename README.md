@@ -3,7 +3,7 @@
 
 ## Nombre Completo  Arley Stiven Montañez Pinzon
 
-**Profesión:**ANALISTA Y DESARROLLADOR DE SOTFWARE**
+**Profesión:**ANALISTA Y DESARROLLADOR DE SOFTWARE**
 
 ## 📞 Contacto
 - **Email:** [arleypizon14@outllok.es](mailto:arleypizon14@outllok.es)
@@ -15,7 +15,7 @@
 ## 🎓 Educación
 **-SENA (2025-ACT)**
 
-**-APRENDIZ DE ANALISIS Y DESARROLLO DE SOTFWARE**
+**-APRENDIZ DE ANALISIS Y DESARROLLO DE SOFTWARE**
 
 -**I.E.D "EL TEQUENDAMA"(2017)**
 
