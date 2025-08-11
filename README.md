@@ -17,10 +17,15 @@
 
 ## 🎓 Educación
 -SENA (2025-ACT)
--Aprendiz de analisis y desarrollo de sotfware
+
+**Aprendiz de analisis y desarrollo de sotfware**
+
 -**I.E.D "EL TEQUENDAMA"(2017)**
+
 -**TITULO ODTENIDO**
+
 **TECNICO EN CONTABILIZACION DE OPERACIONES COMERCIALES Y FINANCIERAS(2017)**
+
 **BACHILLERATO**
 
 ## 💡 Habilidades
