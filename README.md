@@ -2,28 +2,32 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+Arley Stiven Montañez Pinzon
+**Profesión:** 
+Analista y desarrollador de sotware
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [arleypizon14@outllok.es](mailto:arleypizon14@outllok.es)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
+- SENA (2025-ACT)
+  
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
+-SENA (2025-ACT)
+-Aprendiz de analisis y desarrollo de sotfware
+-I.E.D "EL TEQUENDAMA"(2017
 - Título obtenido.
+-TECNICO EN CONTABILIZACION DE OPERACIONES COMERCIALES Y FINANCIERAS(2017)
+-BACHILLERATO
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **TRABAJO EN EQUIPO**
+- **PRODUCTIDAD**
+- **INICIATIVA**
 
 ---
 
