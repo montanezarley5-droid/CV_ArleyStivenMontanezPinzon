@@ -1,10 +1,9 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-Arley Stiven Montañez Pinzon
-**Profesión:** 
-Analista y desarrollador de sotware
+## Nombre Completo  Arley Stiven Montañez Pinzon
+
+**Profesión:** Analista y desarrollador de sotware
 
 ## 📞 Contacto
 - **Email:** [arleypizon14@outllok.es](mailto:arleypizon14@outllok.es)
