@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo  Arley Stiven Montañez Pinzon
+## Nombre:  Arley Stiven Montañez Pinzon
 
 **Profesión:**ANALISTA Y DESARROLLADOR DE SOFTWARE**
 
