@@ -6,7 +6,7 @@
 **Profesión:**ANALISTA Y DESARROLLADOR DE SOFTWARE**
 
 ## 📞 Contacto
-- **Email:** [arleypizon14@outlook.es](mailto:arleypizon14@outlook.es)
+- **Email:** [arleypinzon14@outlook.es](mailto:arleypinzon14@outlook.es)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
