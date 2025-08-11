@@ -12,9 +12,6 @@
 ## 🏢 Experiencia Laboral
 - SENA (2025-ACT)
   
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
 ## 🎓 Educación
 **-SENA (2025-ACT)**
 
