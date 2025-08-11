@@ -3,7 +3,7 @@
 
 ## Nombre:  Arley Stiven Montañez Pinzon
 
-**Profesión:**ANALISTA Y DESARROLLADOR DE SOFTWARE**
+**Profesión**ANALISTA Y DESARROLLADOR DE SOFTWARE**
 
 ## 📞 Contacto
 - **Email:** [arleypinzon14@outlook.es](mailto:arleypinzon14@outlook.es)
